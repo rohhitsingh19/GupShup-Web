@@ -64,7 +64,15 @@ Follow these steps to set up the project locally:
 
 ### Testing
 - **Postman**
-![Screenshot 2025-01-22 112041](https://github.com/user-attachments/assets/20befc15-b423-4a48-b8ba-4dac2241cfef)
 
-![Screenshot 2025-01-22 112109](https://github.com/user-attachments/assets/18919491-8627-4e4f-a16f-faf5dec3b27e)
+![image](https://github.com/user-attachments/assets/74cb33a3-b1a3-4d38-a512-6070ee72d28d)
+
+![image](https://github.com/user-attachments/assets/c612b33c-729a-4fdc-9a55-7fbf1cd10f26)
+
+![image](https://github.com/user-attachments/assets/a3dd4893-5557-4a1a-a09c-ddddc3606ab7)
+
+![image](https://github.com/user-attachments/assets/c2dff771-7af3-49d6-b17b-4f81bca068ec)
+
+![image](https://github.com/user-attachments/assets/fa0c36e9-026e-47ca-b31c-cdc5d6d29495)
+
 
