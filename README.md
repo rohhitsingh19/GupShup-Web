@@ -65,6 +65,8 @@ Follow these steps to set up the project locally:
 ### Testing
 - **Postman**
 
+# GupShup - Real-Time Chat Application Images
+
 ![image](https://github.com/user-attachments/assets/74cb33a3-b1a3-4d38-a512-6070ee72d28d)
 
 ![image](https://github.com/user-attachments/assets/c612b33c-729a-4fdc-9a55-7fbf1cd10f26)
